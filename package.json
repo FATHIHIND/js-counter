@@ -14,7 +14,7 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/bare",
+    "homepage": "https://github.com/FATHIHIND/js-counter",
     "bugs": {
         "url": "https://github.com/StartBootstrap/startbootstrap-bare/issues",
         "email": "feedback@startbootstrap.com"
@@ -26,7 +26,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/StartBootstrap/startbootstrap-bare.git"
+        "url": "https://github.com/FATHIHIND/js-counter"
     },
     "dependencies": {
         "bootstrap": "4.5.3",
