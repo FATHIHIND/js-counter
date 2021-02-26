@@ -12,18 +12,19 @@
     "html",
     "responsive",
     "theme",
-    "template"
+    "template",
+    "heroku"
   ],
+  "engines": {
+    "node": "14.x"
+  },
   "homepage": "https://github.com/FATHIHIND/js-counter",
   "bugs": {
     "url": "https://github.com/StartBootstrap/startbootstrap-bare/issues",
     "email": "feedback@startbootstrap.com"
   },
   "license": "MIT",
-  "author": "Start Bootstrap",
-  "contributors": [
-    "David Miller (https://davidmiller.io/)"
-  ],
+  "author": "Hind FATHI",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/FATHIHIND/js-counter.git"
@@ -33,7 +34,7 @@
     "jquery": "3.5.1"
   },
   "devDependencies": {
-    "browser-sync": "2.26.13",
+    "browser-sync": "^2.26.14",
     "del": "6.0.0",
     "gulp": "4.0.2",
     "merge-stream": "2.0.0"
