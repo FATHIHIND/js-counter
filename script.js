@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", () => {
        }
       }, step);
     }
-    counter("count1", 0, 300, 3000);
+    counter("count1", 0, 200, 3000);
     counter("count2", 100, 500, 2500);
     counter("count3", 0, 450, 3000);
    });
