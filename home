@@ -60,13 +60,13 @@
                  <h1 class="pb-3">Number counter animation in pure JavaScript</h1>
                 </div>
                 <div class="col-md-4">
-                 <span id="count1" class="display-4"></span>
+                 <span id="count1" style="color:yellow" class="display-4"></span>
                 </div>
                 <div class="col-md-4">
-                 <span id="count2" class="display-4"></span>
+                 <span id="count2" style="color:yellow" class="display-4"></span>
                 </div>
                 <div class="col-md-4">
-                 <span id="count3" class="display-4"></span>
+                 <span id="count3" style="color:yellow" class="display-4"></span>
                 </div>
                </div>
               </div>
